@@ -1,7 +1,23 @@
-Output result for the Question 1 in Assignment 1 of Full Stack Java Developer:
+### Ques 1. Write a program(WAP) to print INEURON using pattern programming logic.
+
+Ans: Output result for the Question 1 in Assignment 1 of Full Stack Java Developer:
 
 ![In VScode editor](./Output_Images/ineuronVSCode.png)
 ![Output result is like](./Output_Images/ineuron.PNG)
+
+### Ques 2. Write a program to print
+
+### 1 1 1 1<br>
+### 2 2 2 2<br>
+### 3 3 3 3<br>
+### 4 4 4 4<br><br>
+
+Ans : Output result for the Question 2 in Assignment 1 of Full Stack Java Developer:
+<br>
+
+![VScode Output](./Output_Images/Question2SolutionVSC.png)
+![CMD Output](./Output_Images/Question2SolutionCMD.PNG)
+
 
 
 
