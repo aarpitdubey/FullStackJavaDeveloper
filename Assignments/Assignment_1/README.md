@@ -21,16 +21,16 @@ Ans : Output result for the Question 2 in Assignment 1 of Full Stack Java Develo
 
 ### Ques 3. WAP to print
 ```
-                ************** 
-                ****** *******
-                *****   ******
-                ****     *****
-                ***       ****
-                **         ***
-                *           **
+                **************
+                ******  ******
+                *****    *****
+                ****      ****
+                ***        ***
+                **          **
                 *            *
                 *            *
-                *            *  
+                *            *
+                *            *
                 *            *
                 *            *
                 *            *
