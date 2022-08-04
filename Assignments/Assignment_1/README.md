@@ -60,3 +60,27 @@ Ans : Output result for the Question 4 in Assignment 1 of Full Stack Java Develo
 
 
 ![CMD output](./Output_Images/Question4SolutionCMD.PNG)
+
+### 5. WAP to print
+
+    **************
+    ******
+    *****
+    ****
+    ***
+    **
+    *
+    **
+    ***
+    ****
+    *****
+    ******
+    *******
+    **************
+
+Ans : Output result for the Question 5 in Assignment 1 of Full Stack Java Developer:
+<br><br> 
+
+![VSCode output](./Output_Images/Question5SolutionVSC.png)
+
+![CMD output](./Output_Images/Question5SolutionCMD.PNG)
