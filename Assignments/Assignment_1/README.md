@@ -18,6 +18,24 @@ Ans : Output result for the Question 2 in Assignment 1 of Full Stack Java Develo
 ![VScode Output](./Output_Images/Question2SolutionVSC.png)
 ![CMD Output](./Output_Images/Question2SolutionCMD.PNG)
 
-
+### Ques 3. WAP to print
+```
+                ************** 
+                ****** *******
+                *****   ******
+                ****     *****
+                ***       ****
+                **         ***
+                *           **
+                *            *
+                *            *
+                *            *  
+                *            *
+                *            *
+                *            *
+                **************
+```
+![](./Output_Images/Question3SolutionVSC.png)
+![](./Output_Images/Question3SolutionCMD.PNG)
 
 
