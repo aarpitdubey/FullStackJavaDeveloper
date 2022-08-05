@@ -8,10 +8,10 @@ Added features are :
 Why I added this feature to make the game more unbaised.
 Guesser Generate Random number we can hide that number and it will be more unbaised for all player.
 
-![GuesserGame VScode](./GesserGame_Images/GuessorGameVSC.png)
+![GuesserGame VScode](./GuesserGame_Images/GuessorGameVSC.png)
 
 2. I include ValidationMethod() to check if any player entered number below or beyond the range of number between 1 to 10
 
-![Guesser Game CMD](./GesserGame_Images/GuessorGameCMD.PNG)
+![Guesser Game CMD](./GuesserGame_Images/GuessorGameCMD.PNG)
 
 I'm trying to make a GUI based GuesserGame but it required the knowledge of JavaFx tool. Hopefully I can create it in future.
