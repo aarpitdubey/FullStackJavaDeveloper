@@ -14,4 +14,4 @@ Guesser Generate Random number we can hide that number and it will be more unbai
 
 ![Guesser Game CMD](./GuesserGame_Images/GuessorGameCMD.PNG)
 
-I'm trying to make a GUI based GuesserGame but it required the knowledge of JavaFx tool. Hopefully I can create it in future.
+I'm trying to make a GUI based GuesserGame but it required the knowledge of JavaFx tool Hopefully I can create it in future.
